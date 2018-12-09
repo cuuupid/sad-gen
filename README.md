@@ -1,8 +1,6 @@
 # SAD NN
 
-Objective: scrape subtle asian dating and make a bot that can generate posts. :fist: :eggplant: :sweat_drops:
-
-**I'm basing this off of a model originally developed by [Aiko AI](https://helloaiko.com) for their email client.**
+Scrape subtle asian dating and make a bot that can generate posts. :fist: :eggplant: :sweat_drops:
 
 ------------------------------------------------
 
@@ -76,8 +74,4 @@ Even after training for a while my results were meh. I'll train it until it hits
 
 ## FAQ and Creds
 
-**How did you make this?** I based it off of a model developed by [Aiko AI](https://helloaiko.com)
-
 **Were any baby seals harmed in the making of this repository?** No.
-
-**Why Subtle Asian Dating?** Because memes and also single potato.
